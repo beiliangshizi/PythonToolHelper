@@ -1,0 +1,1 @@
+有两种方法可以在Python中执行SHELL程序，方法一是使用Python的commands包，方法二则是使用subprocess包，这两个包均是Python现有的内置模块。
